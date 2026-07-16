@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
       <div>
-        <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+        <h1 className='text-3xl font-bold underline'>Bosh Sahifa !</h1>
       </div>
     </div>
   )
